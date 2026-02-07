@@ -37,8 +37,6 @@ Detecting hate speech in **Hindi** and **Hindi–English code-mixed text** using
 📌 *Debate → Consensus → Final Prediction*
 
 ---
-
-## 📁 Project Structure
-<img width="453" height="457" alt="image" src="https://github.com/user-attachments/assets/82825fd4-d308-48fc-9d58-81dd7058d9ce" />
+/>
 
 
