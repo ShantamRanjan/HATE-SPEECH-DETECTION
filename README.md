@@ -37,6 +37,4 @@ Detecting hate speech in **Hindi** and **Hindi–English code-mixed text** using
 📌 *Debate → Consensus → Final Prediction*
 
 ---
-/>
-
 
